@@ -6,7 +6,6 @@ Transparency report for instance-wide blocks and silence
 | shitposter.club | suspend  | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
 | rainbowdash.net | suspend  | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
 | freezepeach.xyz	| suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| social.headsca.la	| suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon 
 | woofer.alfter.us | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
 | social.au2pb.net |	suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
 | gorf.club | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
