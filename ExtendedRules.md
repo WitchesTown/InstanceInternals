@@ -1,14 +1,16 @@
-⚠️ Work in progress : This is a markdown template to generate the about/more page. ⚠️
-
 # Description de l'instance Witches.town
 
-Witches Town est là pour fournir un endroit accueillant sur Mastodon pour les personnes queers, féministes, anarchistes et compagnie ainsi qu'à leur sympathisant⋅e⋅s. Nous sommes surtout des francophones mais vous êtes bienvenu⋅e⋅s même si vous parlez une autre langue
+Witches Town est là pour fournir un endroit accueillant sur Mastodon pour les personnes queers, féministes, anarchistes et compagnie ainsi qu'à leur sympathisant⋅e⋅s. Nous sommes surtout des francophones mais vous êtes bienvenu⋅e⋅s même si vous parlez une autre langue.
+
+Merci de prendre le temps de lire [les informations détaillées de notre instance](/about/more).
 
 ---
 
 Witches Town is made to provide a nice place on Mastodon for queer, feminists, anarchists and stuff as well as their sympathizers. We are mostly french-speaking people but you are welcome even if you speak another language.
 
-# Règles de l'instance Witches.town
+Please, take the time to read [the extended informations of our instance](/about/more).
+
+# Règles de Witches Town
 
 Notez que si vous n'aimez pas les SJW (Social Justice Warriors), les féminazies, les antifascistes, etc vous gagnerez probablement du temps en vous inscrivant ailleurs.
 
@@ -18,17 +20,6 @@ Quelques règles :
 - Les injures raciales, sexistes ou oppressives en général vous vaudront d'être suspendu, même utilisés dans des conversations non-publiques.
 - Il est permis de poster du porn ou de la nudité mais uniquement en utilisant la fonction NSFW et en aucun cas sur une timeline publique. Votre compte passerait en mode Silence. (Demandez autour de vous comment faire des posts non-publics)
 - Soyez gentil⋅les les un⋅es avec les autres.
-
----
-
-Please take note that if you don't like SJWs, feminazies, antifa or whatever, it might save you some time to go somewhere else.
-
-Some rules
-
-- Do not engage in harassment of any kind.
-- Racial, sexist and other oppressive slurs will get you suspended, even in non-public conversations.
-- You can post porn and nudity, but you must use the nsfw flag and do not post on the public timeline or you will be silenced (ask around how to make unlisted posts)
-- Be nice to each other
 
 # D'autres infos
 
@@ -40,6 +31,19 @@ Si vous souhaitez soutenir financièrement l'administratrice de l'instance, vous
 
 ---
 
+# The rules of Witches Town
+
+Please take note that if you don't like SJWs, feminazies, antifa or whatever, it might save you some time to go somewhere else.
+
+Some rules
+
+- Do not engage in harassment of any kind.
+- Racial, sexist and other oppressive slurs will get you suspended, even in non-public conversations.
+- You can post porn and nudity, but you must use the nsfw flag and do not post on the public timeline or you will be silenced (ask around how to make unlisted posts)
+- Be nice to each other
+
+# Additionnal informations
+
 You can find the list of the instances that we block here : https://github.com/WitchesTown/IntanceInternals/blob/master/Blocklist.md
 
 If you encounter a technical issue or if you have a suggestion to make regarding the customization of the instance's interface you can file a request there : https://github.com/WitchesTown/InstanceInternals
@@ -47,6 +51,8 @@ If you encounter a technical issue or if you have a suggestion to make regarding
 If you wish to financially support the instance's administrator, you can give her a recurring donation on [her Liberapay profile](https://liberapay.com/Alda).
 
 ---
+
+⚠️ Work in progress ⚠️
 
 Idée :
 - En cas de différend avec un autre membre, merci de régler vos comptes en privé. (cela n'empeche pas l'admin de se faire rapporter des propos dit en DM qui dérogent aux règles et donc sont passible de sanction)
