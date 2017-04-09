@@ -2,13 +2,13 @@
 
 Witches Town est là pour fournir un endroit accueillant sur Mastodon pour les personnes queers, féministes, anarchistes et compagnie ainsi qu'à leur sympathisant⋅e⋅s. Nous sommes surtout des francophones mais vous êtes bienvenu⋅e⋅s même si vous parlez une autre langue.
 
-Merci de prendre le temps de lire [les informations détaillées de notre instance](/about/more).
+Merci de prendre le temps de lire [les informations détaillées de notre instance](https://witches.town/about/more).
 
 ---
 
 Witches Town is made to provide a nice place on Mastodon for queer, feminists, anarchists and stuff as well as their sympathizers. We are mostly french-speaking people but you are welcome even if you speak another language.
 
-Please, take the time to read [the extended informations of our instance](/about/more).
+Please, take the time to read [the extended informations of our instance](https://witches.town/about/more).
 
 # Règles de Witches Town
 
@@ -44,7 +44,7 @@ Some rules
 
 # Additionnal informations
 
-You can find the list of the instances that we block here : https://github.com/WitchesTown/IntanceInternals/blob/master/Blocklist.md
+You can find the list of the instances that we block here : https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md
 
 If you encounter a technical issue or if you have a suggestion to make regarding the customization of the instance's interface you can file a request there : https://github.com/WitchesTown/InstanceInternals
 
