@@ -1,16 +1,6 @@
-# InstanceBlocklist
-Transparency report for instance-wide blocks and silence
+# Instance Internals
 
-| Domain          | Severity | Reason                 | More informations |
-| --------------- | -------- | ---------------------- | ----------------- |
-| shitposter.club | suspend  | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| rainbowdash.net | suspend  | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| freezepeach.xyz	| suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| woofer.alfter.us | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| social.au2pb.net |	suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| gorf.club | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| sealion.club | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| gs.smuglo.li | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| unsafe.space | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| social.heldscal.la | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
-| presidentielle.tech | silence | Boring political bots | https://anticapitalist.party/users/corzntin/updates/4778 |
+This repository contains all the stuff that doesn't fit on the [Extended Informations][1] page of [Witches Town][2]
+
+[1]: https://witches.town/about/more
+[2]: https://witches.town/about
