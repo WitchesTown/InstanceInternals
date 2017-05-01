@@ -15,3 +15,4 @@ Transparency report for instance-wide blocks and silence
 | social.heldscal.la | suspend | Oppressive shitposting | https://github.com/nolanlawson/blocked-on-mastodon
 | presidentielle.tech | silence | Boring political bots | https://anticapitalist.party/users/corzntin/updates/4778 |
 | pawoo.net | suspend | lolicon | |
+| ediot.social | suspend | Dudebros from Encyclopedia Dramatica | |
