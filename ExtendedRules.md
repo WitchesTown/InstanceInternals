@@ -24,9 +24,12 @@ Quelques règles :
 
 # D'autres infos
 
-La liste des instances bloquées que vous ne pourrez pas voir en passant par chez nous est ici : https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md
+Certaines informations complémentaires sont visibles sur Github :
 
-Si vous rencontrez un problème technique ou si vous avez une suggestion concernant la personnalisation de l'interface, vous pouvez remplir une demande par ici : https://github.com/WitchesTown/InstanceInternals
+- [La liste des instances suspendues ou silencées](https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md)
+- [Les signalements de problèmes techniques](https://github.com/WitchesTown/mastodon/issues)
+
+Notez que les profils et les messages ne sont pas indexables par Google, Bing ou d'autres moteurs de recherches classiques.
 
 Si vous souhaitez soutenir financièrement l'administratrice de l'instance, vous pouvez lui faire un don récurrent sur [son profil Liberapay](https://liberapay.com/Alda).
 
@@ -46,9 +49,12 @@ Some rules
 
 # Additionnal informations
 
-You can find the list of the instances that we block here : https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md
+Some informations are visible on Github :
 
-If you encounter a technical issue or if you have a suggestion to make regarding the customization of the instance's interface you can file a request there : https://github.com/WitchesTown/InstanceInternals
+- [The list of suspended or silence instances](https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md)
+- [The list of technical issues you might encounter](https://github.com/WitchesTown/mastodon/issues)
+
+Your profile and messages on witches.town won't be indexed by classical search engines like Google, Bing, etc.
 
 If you wish to financially support the instance's administrator, you can give her a recurring donation on [her Liberapay profile](https://liberapay.com/Alda).
 
