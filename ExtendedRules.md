@@ -17,6 +17,7 @@ Notez que si vous n'aimez pas les SJW (Social Justice Warriors), les féminazies
 Quelques règles :
 
 - Ne participez pas à du harcèlement, sous quelque forme que ce soit.
+- Ne rendez pas publiques des conversations privées ou des DM.
 - Les injures raciales, sexistes ou oppressives en général vous vaudront d'être suspendu, même utilisés dans des conversations non-publiques.
 - Il est permis de poster du porn ou de la nudité mais uniquement en utilisant la fonction NSFW et en aucun cas sur une timeline publique. Votre compte passerait en mode Silence. (Demandez autour de vous comment faire des posts non-publics)
 - Soyez gentil⋅les les un⋅es avec les autres.
@@ -38,6 +39,7 @@ Please take note that if you don't like SJWs, feminazies, antifa or whatever, it
 Some rules
 
 - Do not engage in harassment of any kind.
+- Do not publish private conversations or DMs.
 - Racial, sexist and other oppressive slurs will get you suspended, even in non-public conversations.
 - You can post porn and nudity, but you must use the nsfw flag and do not post on the public timeline or you will be silenced (ask around how to make unlisted posts)
 - Be nice to each other
