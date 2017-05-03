@@ -1,6 +1,6 @@
 # Description de l'instance Witches.town
 
-Witches Town est là pour fournir un endroit accueillant sur Mastodon pour les personnes queers, féministes, anarchistes et compagnie ainsi qu'à leur sympathisant⋅e⋅s. Nous sommes surtout des francophones mais vous êtes bienvenu⋅e⋅s même si vous parlez une autre langue.
+Witches Town est là pour fournir un endroit accueillant sur Mastodon pour les personnes queers, féministes, anarchistes et compagnie ainsi qu'à leurs sympathisant⋅e⋅s. Nous sommes surtout des francophones mais vous êtes bienvenu⋅e⋅s même si vous parlez une autre langue.
 
 Merci de prendre le temps de lire [les informations détaillées de notre instance](https://witches.town/about/more).
 
