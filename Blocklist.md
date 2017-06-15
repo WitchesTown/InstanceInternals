@@ -16,3 +16,4 @@ Transparency report for instance-wide blocks and silence
 | presidentielle.tech | silence | Boring political bots | https://anticapitalist.party/users/corzntin/updates/4778 |
 | pawoo.net | silence + reject media | lolicon | |
 | ediot.social | suspend | Dudebros from Encyclopedia Dramatica | |
+| social.targaryen.house | silence | Enables user-harrasment | |
