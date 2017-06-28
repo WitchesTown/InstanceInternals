@@ -18,3 +18,4 @@ Transparency report for instance-wide blocks and silence
 | ediot.social | suspend | Dudebros from Encyclopedia Dramatica | |
 | social.targaryen.house | silence | Enables user-harrasment | |
 | social.imirhil.fr | suspend | Single-user instance that creates multiple accounts to circumvent account suspension | |
+| anitwitter.moe | suspend | Oppressive shitposting | https://anitwitter.moe/about/more |
