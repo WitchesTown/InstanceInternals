@@ -22,3 +22,4 @@ Transparency report for instance-wide blocks and silence
 | npf.mlpol.net | suspend | Oppressive shitposting | They're litterally nazis |
 | aleph.land | suspend | User harrassment, Dogpiling |  |
 | toot.love |suspend | Nazi friendly instance | https://ltch.fr/@Alda/98997706007765153 |
+| preteengirls.biz | suspend | Pedophilia | |
