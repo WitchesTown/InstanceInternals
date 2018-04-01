@@ -23,3 +23,4 @@ Transparency report for instance-wide blocks and silence
 | aleph.land | suspend | User harrassment, Dogpiling |  |
 | toot.love |suspend | Nazi friendly instance | https://ltch.fr/@Alda/98997706007765153 |
 | preteengirls.biz | suspend | Pedophilia | |
+| pleroma.soykaf.com | suspend | Oppressive shitposting | |
